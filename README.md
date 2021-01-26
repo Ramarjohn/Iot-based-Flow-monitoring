@@ -6,4 +6,7 @@
      2.000webhost or Xamp app to create the website,next we have to create the database 
      3.the database name and user name ,password to give the add.php and show.php file 
      4.upload the .ino file in node mcu board and check it.......
-     
+ # Web Site GUI page
+ ![alt text](https://github.com/Ramarjohn/Iot-based-Flow-monitoring-through-WAN/blob/main/gui.PNG?raw=true)
+ # Hardware Image :
+ ![alt text](https://github.com/Ramarjohn/Iot-based-Flow-monitoring-through-WAN/blob/main/output.PNG?raw=true)
